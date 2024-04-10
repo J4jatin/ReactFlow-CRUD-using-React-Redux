@@ -73,7 +73,7 @@ const Home = () => {
           }}
           onClick={handleAddNode}
         >
-          Add Node
+          Create Node
         </button>
       </div>
     </>

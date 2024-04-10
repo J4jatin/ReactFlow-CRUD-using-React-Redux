@@ -4,8 +4,11 @@
 Certainly! Here are the key points of the React Flow Node Graph project:
 
 Interactive Node Creation: Users can easily add new nodes to the graph panel by clicking the ‘Create node’ button.
+
 Node Connectivity: It allows for the connection of nodes with branches by dragging from one node’s output port to another’s input port.
+
 Simple Node Deletion: Nodes and branches can be removed by clicking the ‘X’ icon that appears on mouseover.
+
 Core Libraries: The application is built using React, React Flow, React Redux/Redux Toolkit, and React Router Dom.
 
 
